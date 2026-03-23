@@ -19,19 +19,19 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  
-`React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+⚛️ React.js | 🟨 JavaScript | 🌐 HTML5 | 🎨 CSS3 | 💨 Tailwind CSS  
 
 ### ⚙️ Backend  
-`Node.js` `Express.js` `Spring Boot`
+🟢 Node.js | 🚂 Express.js | ☕ Spring Boot
 
 ### 🗄️ Database  
-`MongoDB` `SQL` `PL/SQL`
+🍃 MongoDB | 🗃️ SQL | 📊 PL/SQL
 
 ### 🤖 AI & Data  
-`Google Gemini API` `ETL (Informatica)`  
+🧠 Gemini API | 🔄 ETL    
 
 ### 🔧 Tools  
-`Git` `GitHub` `Postman`
+🔧 Git | 🐙 GitHub | 📬 Postman
 
 ---
 
@@ -53,10 +53,36 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajana1055&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajana1055&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ajana1055&count_private=true&theme=github_dark&border_radius=10" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ajana1055&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" />
+
+  <br/><br/>
+
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajana1055&layout=compact&theme=github_dark&hide_progress=true&langs_count=10" />
+
+  <br/><br/>
+
+  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajana1055&theme=github_dark"/>
+  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajana1055&theme=github_dark"/>
+
+  <br/><br/>
+
+  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajana1055&theme=github_dark"/>
+
+  <br/><br/>
+
+  
+  <br/><br/>
+
+  <img width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=Ajana1055&theme=react-dark&hide_border=true" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/github/last-commit/Ajana1055/Ajana1055?style=for-the-badge&color=539BF5&labelColor=0D1117&logo=github"/>
+
+</div>
 
 ---
 
