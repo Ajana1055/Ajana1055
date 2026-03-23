@@ -31,7 +31,7 @@
 🧠 Gemini API | 🔄 ETL    
 
 ### 🔧 Tools  
-🔧 Git | 🐙 GitHub | 📬 Postman
+🔧 Git | 🐙 GitHub | 📬 Postman | IICS | POWERCENTER |Snowflake
 
 ---
 
@@ -44,9 +44,12 @@
 
 ---
 
-### 🧮 JavaScript Calculator  
-✔ Pure JS logic  
-✔ DOM mastery project  
+### 💬 MERN Chat Application  
+✔ Real-time chat with instant message delivery  
+✔ Secure authentication using JWT  
+✔ Built with React, Node.js, Express & MongoDB  
+✔ Scalable and production-ready architecture  
+✔ Clean UI with responsive design  
 
 
 ---
