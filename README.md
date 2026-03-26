@@ -1,91 +1,83 @@
 # 👋 Hey, I'm Anirban Jana  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F700FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;MERN+Stack+Lover;Building+Real-World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+Enthusiast;MERN+Stack+Engineer;Building+Scalable+Real-World+Apps+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Ex--Intern-Innova%20Solutions-green?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-🚀 Full-Stack Developer | AI Explorer | Intern @ Innova Solutions  
+🚀 Full-Stack Developer passionate about building **scalable web applications**  
+🤖 Integrating **AI + real-world solutions**  
+⚡ Turning ideas into **production-ready systems**  
 
-💡 I build **scalable web apps** and integrate **AI to solve real-world problems**  
-🌍 Based in **Hyderabad, India**  
-⚡ Love turning ideas into **production-ready applications**  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Frontend  
-⚛️ React.js | 🟨 JavaScript | 🌐 HTML5 | 🎨 CSS3 | 💨 Tailwind CSS  
-
-### ⚙️ Backend  
-🟢 Node.js | 🚂 Express.js | ☕ Spring Boot
-
-### 🗄️ Database  
-🍃 MongoDB | 🗃️ SQL | 📊 PL/SQL
-
-### 🤖 AI & Data  
-🧠 Gemini API | 🔄 ETL    
-
-### 🔧 Tools  
-🔧 Git | 🐙 GitHub | 📬 Postman | IICS | POWERCENTER |Snowflake
+📍 Hyderabad, India  
 
 ---
 
-## 🚧 Projects  
+## ⚡ Tech Arsenal  
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,spring,mongodb,mysql,git,github,postman" />
+
+</p>
+
+<p align="center">
+🧠 Gemini API • 🔄 ETL • ☁️ Snowflake • ⚙️ PowerCenter • 🔄 IICS
+</p>
+
+---
+
+## 🚀 Featured Projects  
 
 ### 🤖 AI Resume Analyzer  
-✔ Upload resume → Get AI feedback  
-✔ Built with MERN + Gemini API  
-✔ Helps job seekers optimize resumes  
+✔ AI-powered resume feedback system  
+✔ Built using MERN + Gemini API  
+✔ Helps users optimize resumes for jobs  
 
 ---
 
 ### 💬 MERN Chat Application  
-✔ Real-time chat with instant message delivery  
-✔ Secure authentication using JWT  
-✔ Built with React, Node.js, Express & MongoDB  
-✔ Scalable and production-ready architecture  
-✔ Clean UI with responsive design  
-
+✔ Real-time messaging using WebSockets  
+✔ Secure JWT authentication system  
+✔ Scalable full-stack architecture  
+✔ Clean and responsive UI  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <div align="center">
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ajana1055&count_private=true&theme=github_dark&border_radius=10" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ajana1055&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" />
+  <img width=390 src="https://streak-stats.demolab.com?user=Ajana1055&theme=tokyonight&border_radius=10" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ajana1055&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
 
   <br/><br/>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajana1055&layout=compact&theme=github_dark&hide_progress=true&langs_count=10" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajana1055&layout=compact&theme=tokyonight&langs_count=8" />
 
   <br/><br/>
 
-  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajana1055&theme=github_dark"/>
-  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajana1055&theme=github_dark"/>
-
-  <br/><br/>
-
-  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajana1055&theme=github_dark"/>
-
-  <br/><br/>
-
-  
-  <br/><br/>
-
-  <img width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=Ajana1055&theme=react-dark&hide_border=true" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/github/last-commit/Ajana1055/Ajana1055?style=for-the-badge&color=539BF5&labelColor=0D1117&logo=github"/>
+  <img width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=Ajana1055&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajana1055&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajana1055&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -97,15 +89,21 @@
 
 ---
 
-## 🤝 Connect With Me  
+## 🌐 Connect With Me  
 
-📍 Hyderabad, India  
-
-🔗 LinkedIn: https://www.linkedin.com/in/ajana1055  
-📧 Email: janaanirban292@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajana1055">
+    <img src="https://img.shields.io/badge/LinkedIn-Anirban-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:janaanirban292@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Fun Zone  
 
-☠️ "I’m going to be the Pirate King of Code!" — One Piece  
+<p align="center">
+  ☠️ "I’m going to be the Pirate King of Code!"  
+</p>
