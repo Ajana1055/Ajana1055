@@ -5,7 +5,7 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
-# 🔥 ADD THIS (VERY IMPORTANT)
+# 🔥 ADD THIS (VERY IMPORTANT)  
 permissions:
   contents: write
 
