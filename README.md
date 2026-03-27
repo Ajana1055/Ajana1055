@@ -57,12 +57,9 @@
 
 <div align="center">  
 
-  <img width=390 src="https://streak-stats.demolab.com?user=Ajana1055&theme=tokyonight&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ajana1055&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
-
+<img width=390 src="https://streak-stats.demolab.com?user=Ajana1055&theme=tokyonight&border_radius=10&cache_seconds=0" />
   <br/><br/>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajana1055&layout=compact&theme=tokyonight&langs_count=8" />
 
   <br/><br/>
 
