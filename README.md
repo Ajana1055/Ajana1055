@@ -57,12 +57,14 @@
 
 <div align="center">  
 
-<img width=390 src="https://streak-stats.demolab.com?user=Ajana1055&theme=tokyonight&border_radius=10&cache_seconds=0" />
+<img width=390 src="https://github-readme-stats-fast.vercel.app/api/streak?username=Ajana1055&theme=radical" />
   <br/><br/>
 
 <div align="center">
 
-  <img width=390 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ajana1055&layout=compact&theme=tokyonight&langs_count=8" />
+ ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ajana1055&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ajana1055&layout=compact&theme=radical)
+
   <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajana1055&theme=tokyonight" />
 
 </div>
