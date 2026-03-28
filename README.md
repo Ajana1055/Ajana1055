@@ -83,7 +83,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ajana1055/Ajana1055/output/github-contribution-grid-snake.svg" />
